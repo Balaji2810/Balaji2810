@@ -4,8 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=100&duration=3000&lines=Hi+There!+👋;+I'm+Balaji+J!;+Backend+Developer" />
 </h1>
 <h1>💫 About Me:</h1>
- A passionate backend developer from India
 
+### I'm a **Founding Engineer cum Tech Lead** working at **Nexera**, an **Algotrading platform**. I have a passion for building scalable and efficient systems. My love for Python drives my work, and I mostly use **FastAPI** along with **MongoDB** and **MySQL** for my projects.
+
+## ⚡ Fun Facts
+- 🔭 I’m currently working on **Automation and Web Scrapping**
+- 🌱 I’m currently learning **Go**
+- 🤔 I’m looking for help with **Finding my next Team**
+- 💬 Ask me about **Python, FastAPI, MongoDB, MySQL, CI/CD**
+- 📫 How to reach me: **[balaji.ibhut.com](https://balaji.ibhut.com)**
+- ⚡ Fun fact: **Need based learning is my key to Success**
 
 # 💻 Tech Stack:
 
