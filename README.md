@@ -1,21 +1,27 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Balaji2810.Balaji2810" />
 
-<h1 align="center">Hi 👋, I'm Balaji J</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=100&duration=3000&lines=Hi+There!+👋;+I'm+Balaji+J!;+Backend+Developer" />
+</h1>
 <h1>💫 About Me:</h1>
  A passionate backend developer from India
 
 
 # 💻 Tech Stack:
 
+
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px; justify-items: center;">
     <div >
-    <h2>Programming Languages</h2>
+    <h2>Programming Languages & Others</h2>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript">
+     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </div>
     <div >
     <h2>Cloud Services</h2>
@@ -59,7 +65,9 @@
       <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
       <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
       <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio">
+     <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus">
+     <img src="https://img.shields.io/badge/loki-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
     </div>
@@ -78,9 +86,9 @@
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Love Eating My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Balaji2810/Balaji2810/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Balaji2810/Balaji2810/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
